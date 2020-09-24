@@ -1,8 +1,8 @@
 {
-    "name": "codica-studio/robotcontroller",
+    "name": "codicastudio/robot-controller",
     "description": "A random Codica Studio package.",
 
-    "homepage": "https://github.com/codicastudio/robotcontroller",
+    "homepage": "https://github.com/codicastudio/robot-controller",
     "license": "MIT",
     "authors": [
         {
@@ -12,7 +12,7 @@
             "role": "Developer"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true,
     "require": {
         "php": "^7.4 || ^8.0",
